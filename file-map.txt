@@ -1,0 +1,6 @@
+com.example.stock_lookup.test.app-core-1.5.0-0 C:\Users\Dell\.gradle\caches\transforms-3\117962e04b98612db46e4ed7d521ed59\transformed\core-1.5.0\res
+com.example.stock_lookup.test.app-annotation-experimental-1.3.0-1 C:\Users\Dell\.gradle\caches\transforms-3\8926c8614022bac951cf6bb966ea69fc\transformed\annotation-experimental-1.3.0\res
+com.example.stock_lookup.test.app-androidTest-2 C:\Users\Dell\Desktop\Stock_LookUp\app\build\generated\res\resValues\androidTest\debug
+com.example.stock_lookup.test.app-mergeDebugAndroidTestResources-3 C:\Users\Dell\Desktop\Stock_LookUp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.stock_lookup.test.app-mergeDebugAndroidTestResources-4 C:\Users\Dell\Desktop\Stock_LookUp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.stock_lookup.test.app-merged_res-5 C:\Users\Dell\Desktop\Stock_LookUp\app\build\intermediates\merged_res\debugAndroidTest
